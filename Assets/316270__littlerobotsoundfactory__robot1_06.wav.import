@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/316270__littlerobotsoundfactory__robot1_06.wav-ff1f95a9e8f32a47b671cd3291d34989.sample"
+
+[deps]
+
+source_file="res://Assets/316270__littlerobotsoundfactory__robot1_06.wav"
+dest_files=[ "res://.import/316270__littlerobotsoundfactory__robot1_06.wav-ff1f95a9e8f32a47b671cd3291d34989.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

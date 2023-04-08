@@ -14,7 +14,7 @@ At least one use of Constructive Solid Geometry
 
 At least one object to pick up or interact with
 
-At least one enemy to impede your progress
+At least one enemy to impede progress
 
 A main menu, an in-game menu, and an end-game screen
 
